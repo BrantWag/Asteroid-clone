@@ -1,12 +1,12 @@
 # Project-2-Asteroid-clone-
-Project 2: Ultimate Asteroid Tactical-Control (UAT)
-Your game must meet the following criteria:
+//Project 2: Ultimate Asteroid Tactical-Control (UAT)
+//Your game must meet the following criteria:
 
-Controls
-The player can use the arrow left and right keys to rotate
-The player can press the forward key to move forward
-The player can press the spacebar to fire a bullet forward.
-Gameplay
+//Controls
+//The player can use the arrow left and right keys to rotate
+//The player can press the forward key to move forward
+//The player can press the spacebar to fire a bullet forward.
+//Gameplay
 The player starts at the center of the screen.
 Asteroids appear at a random spawn point and move towards the player's position at the time of the asteroid spawn (NOT "heat seeking")
 There is also a random chance for an enemy ship to appear. 
