@@ -1,7 +1,6 @@
-# Project-2-Asteroid-clone-
-//Project 2: Ultimate Asteroid Tactical-Control (UAT)
+# Asteroid-clone
+//Ultimate Asteroid Tactical-Control 
 
-Your game must meet the following criteria:
 
 //Controls//
 
